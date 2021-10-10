@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=MonteCarlo&family=Playfair+Display&family=Style+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@300&family=Cormorant+Garamond&family=Cormorant+Upright&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#BName{
+  font-size: 35px;
+  font-family: "Lobster";
+  font-weight: bold;
+  padding: 15px;
+}
+
+#BHome{
+  font-family: "Cormorant Upright";
+  font-size: 20px;
+  height: 30px;
+  width: 100px;
+  font-weight: bold;
+  border: solid #3c005a;
+  text-align: center;
+  padding: 4px;
+  border-radius: 3px;
+  margin-left: 800px;
+  margin-top: -50px;
+
+}
+
+#BAbout{
+  font-family: "Cormorant Upright";
+  font-size: 20px;
+  height: 30px;
+  width: 100px;
+  font-weight: bold;
+  background-color: #3c005a;
+  border: solid black;
+  text-align: center;
+  padding: 4px;
+  border-radius: 3px;
+  margin-left: 950px;
+  margin-top: -42px;
+}
+
+#BContact{
+  font-family: "Cormorant Upright";
+  font-size: 20px;
+  height: 30px;
+  width: 100px;
+  font-weight: bold;
+  border: solid #3c005a;
+  text-align: center;
+  padding: 4px;
+  border-radius: 3px;
+  margin-left: 1100px;
+  margin-top: -44px;
+}
+
+a:link{
+  text-decoration: none;
+}
+
+#content{
+  font-family: "Playfair Display";
+  margin-top: 150px;
+  color: #3c005a;
+  padding: 30px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#content {
+  animation: fadeIn 5s;
+  -webkit-animation: fadeIn 5s;
+  -moz-animation: fadeIn 5s;
+  -o-animation: fadeIn 5s;
+  -ms-animation: fadeIn 5s;
+}
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+#img{
+  width: 100%;
+  height: 700px;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
