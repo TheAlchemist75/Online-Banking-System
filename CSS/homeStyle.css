@@ -1,0 +1,236 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=MonteCarlo&family=Playfair+Display&family=Style+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@300&family=Cormorant+Garamond&family=Cormorant+Upright&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#par1{
+  width: 100%;
+  height: 800px;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+#par2{
+  width: 100%;
+  height: 600px;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+
+#Head{
+  width: 100%;
+  height: 80PX;
+  background: rgba(255,255,255, 0.5);
+}
+
+#BName{
+  font-size: 35px;
+  font-family: "Lobster";
+  font-weight: bold;
+  padding: 15px;
+}
+
+#BHome{
+  font-family: "Cormorant Upright";
+  font-size: 20px;
+  height: 30px;
+  width: 100px;
+  font-weight: bold;
+  background-color: #3c005a;
+  text-align: center;
+  padding: 4px;
+  border-radius: 3px;
+  margin-left: 800px;
+  margin-top: -50px;
+  border: solid black;
+}
+
+#BAbout{
+  font-family: "Cormorant Upright";
+  font-size: 20px;
+  height: 30px;
+  width: 100px;
+  font-weight: bold;
+  border: solid #3c005a;
+  text-align: center;
+  padding: 4px;
+  border-radius: 3px;
+  margin-left: 950px;
+  margin-top: -42px;
+}
+
+#BContact{
+  font-family: "Cormorant Upright";
+  font-size: 20px;
+  height: 30px;
+  width: 100px;
+  font-weight: bold;
+  border: solid #3c005a;
+  text-align: center;
+  padding: 4px;
+  border-radius: 3px;
+  margin-left: 1100px;
+  margin-top: -44px;
+}
+
+a:link{
+  text-decoration: none;
+}
+
+#BContent{
+  font-family: "Lobster Two";
+  font-size: 100px;
+  color: white;
+  text-align: center;
+  margin-top: 230px;
+}
+
+#BContent2{
+  padding: 40px;
+  font-family: "Oswald";
+  font-size: 35px;
+  text-align: center;
+  margin-top: -370px;
+  color: white;
+
+}
+
+#BContent3{
+  font-family: "Playfair Display";
+  margin-top: 150px;
+  background-color: black;
+  color: white;
+  padding: 30px;
+  font-size: 20px;
+  text-align: center;
+}
+
+#BContent,#BContent2 {
+  animation: fadeIn 5s;
+  -webkit-animation: fadeIn 5s;
+  -moz-animation: fadeIn 5s;
+  -o-animation: fadeIn 5s;
+  -ms-animation: fadeIn 5s;
+}
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+#left{
+  margin-top: 70px;
+  float: left;
+  width: 45%;
+  padding: 20px;
+  font-family: "Playfair Display";
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 150px;
+  background: rgba(255,255,255, 0.5);
+  height: 240px;
+  margin-left: 10px;
+}
+
+#right{
+  float: right;
+  width: 45%;
+  padding: 20px;
+  font-family: "Playfair Display";
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 150px;
+  background: rgba(255,255,255, 0.5);
+  height: 240px;
+  margin-right: 10px;
+}
+
+#section{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#b1{
+  margin-top: 50px;
+}
+
+#b2{
+  margin-top: 70px;
+}
+
+#b1, #b2{
+  font-family: "Playfair Display";
+  font-size: 20px;
+  width: 130px;
+  height: 40px;
+  color: #3c005a;
+  border: solid #3c005a;
+  border-radius: 10px;
+  background: rgba(255,255,255, 0.5);
+}
+
+#b1:hover, #b2:hover{
+  color: white;
+  background-color: #3c005a;
+  border: solid black;
+  transform: translateY(-7px);
+  transition: 1s ease-in-out;
+}
+
+#footer{
+  width: 100%;
+  height: 150PX;
+  background-color: black;
+}
+
+#BName1{
+
+  font-size: 35px;
+  font-family: "Lobster";
+  font-weight: bold;
+  padding: 15px;
+}
+
+#cc{
+  font-family: "Playfair Display";
+  font-size: 20px;
+  /*color: #3c005a;*/
+  color: #FF00FF;
+  font-weight: bolder;
+  margin-left: 1000px;
+  margin-top: -55px;
+}
+
+
+#cc:hover{
+  color: white;
+  text-shadow: 10px 5px 20px #FF00FF;
+}
