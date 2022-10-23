@@ -37,7 +37,7 @@ Preview/screenshots of this project can be found in the [Screenshots](https://gi
 
 ## Demo
 
-[Preview of the website](https://www.linkedin.com/posts/shubham-manur-629006194_task1-task3-webdevelopment-activity-6855434943452065792-yPxO?utm_source=share&utm_medium=member_desktop)
+[Preview of the website - Linkedin post](https://www.linkedin.com/posts/shubham-manur-629006194_task1-task3-webdevelopment-activity-6855434943452065792-yPxO?utm_source=share&utm_medium=member_desktop)
 
 ## Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-manur-629006194/)
