@@ -1,6 +1,6 @@
 # Online-Banking-System
 
-![Logo](https://cdn.discordapp.com/attachments/913766008081244183/1033612130215276564/unknown.png)
+![Logo](https://res.cloudinary.com/dcprg19es/image/upload/v1666507873/Miscellaneous/logo_czgnmx.svg)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
