@@ -29,7 +29,7 @@ The Banking System Web application allows you to transfer money between multiple
 ```
 C:\xampp\htdocs\
 ```
-- Open Xamp Control Panel. Click on Start button near Apache and MySQL.
+- Open Xamp Control Panel. And then start the Apache and MySQL server.
 - Select the project folder through localhost in your browser.
 ## Screenshots
 
