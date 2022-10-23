@@ -17,7 +17,7 @@ The Banking System Web application allows you to transfer money between multiple
 
 - Transactions between dummy accounts
 - Can view the history of all the transactions
-- All the data is stored in databse with is integrated with Frontend through PHP
+- All the data is stored in databse which is integrated with Frontend through PHP
 - Dynamic website 
 
 
@@ -26,7 +26,6 @@ The Banking System Web application allows you to transfer money between multiple
 - Clone the Repository.
 - Make sure you have installed xampp on your computer.
 - Copy this folder to xampp installation Directory and then inside htdocs folder.
-
 ```
 C:\xampp\htdocs\
 ```
