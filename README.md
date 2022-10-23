@@ -25,12 +25,13 @@ The Banking System Web application allows you to transfer money between multiple
 
 - Clone the Repository.
 - Make sure you have installed xampp on your computer.
-- Copy this folder to xampp installation Directory and then inside htdocs folder.
+- Copy this folder to xampp installation Directory and paste it in htdocs folder.
 ```
 C:\xampp\htdocs\
 ```
-- Open Xamp Control Panel. And then start the Apache and MySQL server.
+- Open Xamp Control Panel and start the Apache and MySQL server.
 - Select the project folder through localhost in your browser.
+
 ## Screenshots
 
 Preview/screenshots of this project can be found in the [Screenshots](https://github.com/TheAlchemist75/Online-Banking-System/tree/main/Screenshots) branch.
