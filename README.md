@@ -1,4 +1,4 @@
-# Online Banking System
+# Banking System website
 
 ![Logo](https://res.cloudinary.com/dcprg19es/image/upload/v1666507873/Miscellaneous/logo_czgnmx.svg)
 
