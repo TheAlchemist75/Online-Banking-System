@@ -4,7 +4,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-# Project Title
+# Project Description
 
 
 The Banking System Web application allows you to transfer money between multiple users virtually and see the details of the transactions.
