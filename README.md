@@ -7,7 +7,7 @@
 # Project Description
 
 
-The Banking System Web application allows you to transfer money between multiple users virtually and see the details of the transactions.
+The Banking System Web application allows you to transfer money between multiple users virtually and view the details of the transactions.
 
 ## Built with
 
